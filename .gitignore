@@ -1,0 +1,9 @@
+# Removing node modules
+node_modules
+
+# All env's that should not be in the repo
+env
+
+#build folder for the project 
+/dist
+/build
